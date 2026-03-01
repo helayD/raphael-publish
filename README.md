@@ -2,27 +2,35 @@
 
 专为**微信公众号**与**内容创作者**打造的现代 Markdown 排版引擎。
 
+> **在线体验**：[https://publish.raphael.app](https://publish.raphael.app)
+
+![Raphael Publish 截图](media/screenshot.png)
+
+
 ## 功能特性
+
 
 ### 魔法粘贴
 
 从飞书、Notion、Word 甚至任意网页复制富文本，粘贴瞬间自动净化为纯净 Markdown。无需手写 Markdown 语法，粘贴即用。
 
-### 10 套高定样式
+### 30 套高定样式
 
-告别同质化白底模板，提供 10 套精心打磨的视觉主题：
+告别同质化白底模板，提供 30 套精心打磨的视觉主题：
 
-- **极简与经典**：Mac 纯净白、微信公众号原生、Medium 博客风
-- **深度阅读**：Claude 燕麦色、NYT 纽约时报、Retro 复古羊皮纸
-- **极客与商务**：Stripe 硅谷风、飞书效率蓝、Linear 暗夜模式、Bloomberg 终端机
+- **经典**：Mac 纯净白、Claude 燕麦色、微信原生、NYT 纽约时报、Medium 博客风、Stripe 硅谷风、飞书效率蓝、Linear 暗夜、Retro 复古羊皮纸、Bloomberg 终端机
+- **潮流**：Notion、GitHub、少数派、Dracula、Nord、樱花、深海、薄荷、日落、Monokai
+- **更多风格**：Solarized、Cyberpunk、水墨、薰衣草、密林、冰川、咖啡、Bauhaus、赤铜、彩虹糖
 
 每套主题在背景色、字体、标题、代码块、引用、表格等元素上都有独立设计，切换即可感受完全不同的排版风格。
+
+![Raphael Publish 演示](media/record.gif)
 
 ### 一键复制到公众号
 
 点击「复制到公众号」按钮，直接粘贴到公众号后台：
 
-- 所有外链图片自动转 Base64，不会出现"此图片来自第三方"的报错
+- **所有外链图片自动转 Base64，不会出现"此图片来自第三方"的报错**
 - 背景色、圆角、间距等样式精准还原
 - 列表和表格经过底层 DOM 重塑，在微信中不会塌陷
 
